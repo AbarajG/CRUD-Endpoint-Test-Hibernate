@@ -1,0 +1,4 @@
+com\andygomez\main\repository\DepartamentoRepositoryTest.class
+com\andygomez\main\service\DepartamentoServiceTest.class
+com\andygomez\main\ApplicationTests.class
+com\andygomez\main\controller\DepaControllerTest.class
